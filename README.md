@@ -182,6 +182,8 @@ Services](https://www.microsoft.com/cognitive-services/en-us/)
 
 [Assist](http://www.assi.st/)
 
+[GoVocal.AI](https://GoVocal.AI)
+
 [Alexa Skills Kit](https://developer.amazon.com/alexa-skills-kit)
 
 [Pullstring](https://www.pullstring.com/build_alexa_skills_fast)
@@ -227,6 +229,8 @@ get started: [Build your first Alexa skill](https://medium.com/@bthdonohue/build
 [Xandra](https://www.xandra.com/)
 
 [Assist](http://www.assi.st/)
+
+[GoVocal.AI](https://GoVocal.AI)
 
 [Rain](https://rain.agency/alexa/)
 
